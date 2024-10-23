@@ -1,0 +1,25 @@
+.responsive {
+    width: 100vw;
+    height: 100vh;
+}
+
+.lable {
+    width: 30%;
+}
+
+.input {
+    width: 70%;
+}
+
+.box {
+    margin: 5px;
+    width: 50%;
+    height: 50%;
+    border: 1px black solid
+}
+
+.title {
+    font-size: 30;
+    font-weight: bold;
+    align-items: center;
+}
